@@ -1,3 +1,4 @@
 Requirement & Planning
 Design
 Building & developing
+testing
